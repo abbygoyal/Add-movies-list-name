@@ -1,5 +1,5 @@
-## Sending-HTTP-Request
-HTTP request using firebase
+## Add movies list name
+Adding movies list name using HTTP request with firebase
 
 ## Live Project Link
 [sending HTTP Request](https://http-react-movie.netlify.app/)
